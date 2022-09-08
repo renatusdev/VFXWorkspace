@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 75767b8c6555dc84c921c9f6fa69eac1
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LM_lambert27034
+    second: {fileID: 2100000, guid: 79d676733c219be4eac0f5af371f4f1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _chunk_jungle_east_island_e_Alpha_3dcUV_Atlas_color
+    second: {fileID: 2100000, guid: c3877b6e9fac9c44da0018ef66c2b3be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _chunk_jungle_east_island_h_Alpha_3dcUV_Atlas_color2
+    second: {fileID: 2100000, guid: d13ceefb31ad2494ea4d9f733d7e7c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _chunk_jungle_north_island_a_Alpha_3dcUV_Atlas_color
+    second: {fileID: 2100000, guid: ba64f035c81386b4a96db05a7abba17a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _chunk_jungle_north_island_b_Alpha_3dcUV_Atlas_color2
+    second: {fileID: 2100000, guid: 0b9299fc6f990d3418f1a27d8740fe27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _chunk_jungle_south_island_a_Alpha_3dcUV_Atlas_color
+    second: {fileID: 2100000, guid: 304881c9c35647e46a6a26d50eb038ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _chunk_jungle_west_island_e_Alpha_3dcUV_Atlas_color
+    second: {fileID: 2100000, guid: fd27fa0f8775b724d8130a914f14df34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _chunk_jungle_west_island_h_Alpha_3dcUV_Atlas_color
+    second: {fileID: 2100000, guid: 4b8a3941b612f9c47b80327709a4f9b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hing_temp_lm_Grnd_Terrain_H_Shader2
+    second: {fileID: 2100000, guid: e1566bdd94858eb47bc19c940acd11af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hing_temp_lm_Grnd_Terrain_M_Shader1
+    second: {fileID: 2100000, guid: 9d60e0ba07eb964419ff85ba44f08523, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert177183
+    second: {fileID: 2100000, guid: 3989e9028fde26249ad3d7cc7ba93f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert177189
+    second: {fileID: 2100000, guid: f7d184f2d6e68394caad8bed7dfba484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert177306
+    second: {fileID: 2100000, guid: 3f4c6d0388527e443a9cb20c4c606ffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 1672903e598a88343b376ce7299fe7f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lm_Grnd_Terrain_L_Shader2
+    second: {fileID: 2100000, guid: 99a4b9d345856174896c9900f3343b81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: splitfilewip_2256_grnd_terrain_s2
+    second: {fileID: 2100000, guid: 29319a90e1b86204c92611b293706b17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: splitfilewip_2256_hing_temp_LM_Grnd_Terrain_R_Shader2
+    second: {fileID: 2100000, guid: 925af840f5ec9ef4a99234bee697dc6f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
